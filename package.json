@@ -24,7 +24,6 @@
     "react-donut-chart": "^1.1.8",
     "react-github-calendar": "^2.0.2",
     "react-icons": "^4.2.0",
-    "react-loader-spinner": "file:node_modules/react-loader-spinner",
     "react-parallax-tilt": "^1.4.95",
     "react-particles-js": "^3.4.1",
     "react-pro-sidebar": "^0.6.0",
