@@ -62,7 +62,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0",
-    "react-chartist": "file:node_modules/react-chartist"
+    "gh-pages": "^3.1.0"
   }
 }
